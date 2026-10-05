@@ -1,7 +1,7 @@
 # Praktikum Minggu 3 - Implementasi Sistem Legacy & EAI (HTTP + XML)
 
-**Nama:** [Nama Anda]
-**NIM:** [NIM Anda]
+**Nama:** [Eugenius Arlanda Wangkur]
+**NIM:** [2415354072]
 **Kelas:** 5D TRPL
 **Mata Kuliah:** Integrasi Sistem Informasi
 
